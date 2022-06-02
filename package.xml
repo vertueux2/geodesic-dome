@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>geodesic-dome</name>
+  <version>16.2.0</version>
+  <description>Open source little calculator wrote in C++ for making geodesic dome</description>
+  <maintainer>Noah VERTUEUX</maintainer>
+  <license>MIT License</license>
+  <author>Noah VERTUEUX</author>
+</package>
